@@ -8,10 +8,10 @@ tags: []
 image:
   feature: coverphoto-slim.png
 date: 2017-05-01T00:00:00-04:00
-modified: 2016-06-01T14:19:19-04:00
 ---
 
-This show was great.
+ACCURATE LINEUP
+QUESTIONABLE DATE
 
 April GUST Lineup: 
 
@@ -22,5 +22,3 @@ April GUST Lineup:
 * That Night	written by	Amelia	read by	Colleen Moore
 * 24th Birthday	written by	Merrilyn Taylor	read by	Doria Hughes
 * The Road We Traveled	written by	Kelly Smith	read by	Angelina Raquel Morales
-
-images image, etc.

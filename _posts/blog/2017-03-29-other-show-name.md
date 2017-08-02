@@ -10,7 +10,7 @@ image:
 date: 2017-03-29T00:00:00-04:00
 ---
 
-This show was great too.
+good date and lineup
 
 March GUST Lineup: 
 
@@ -20,5 +20,3 @@ March GUST Lineup:
 * The House with the Lime Tree	written by	Angelica Recierdo	read by	Alissa Cordeiro
 * On Tuesday I Will Kill Him	written by	Lesley Bannatyne	read by	Merrilyn Jones Taylor
 * ExGirlfriend	written by	Devyn Andrews	read by	Allison Turner
-
-images image, etc.
