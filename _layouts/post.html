@@ -24,6 +24,9 @@
         {% else %}
           <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
         {% endif %}
+
+        <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i> {{ page.date | date: "%B %d, %Y" }}</time></span>
+
       </header>
       <!-- <footer class="entry-meta">
         {% if page.author %}
@@ -42,6 +45,7 @@
         {% if page.ads == true %}{% include ad-sidebar.html %} --><!-- /.google-ads{% endif %}
       </footer> -->
       <div class="entry-content">
+        <br />
         {{ content }}
         {% if site.owner.disqus-shortname and page.comments or site.comments %}
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
