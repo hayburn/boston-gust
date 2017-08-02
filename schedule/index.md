@@ -10,9 +10,8 @@ image:
 All shows are at Aeronaut Brewery in Somerville unless otherwise noted.
 
 <ul class="post-list">
-  <li>7pm June 22nd, 2017</li>
-  <li>7pm July xxth, 2017</li>
-  <li>7pm August xxth, 2017</li>
+  <li>7pm August 16th, 2017: Teaser Event at Aeronaut Allston</li>
+  <li>7pm August 23rd, 2017: Gusty Nights</li>
 </ul>
 
-Last updated on June 21, 2017
+Last updated on August 2nd, 2017
