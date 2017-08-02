@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Other Show Name"
+title: "Hibernation Hijinks"
 modified:
 categories: blog
 excerpt:

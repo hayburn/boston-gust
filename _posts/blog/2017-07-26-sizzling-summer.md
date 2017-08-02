@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Name of Show"
+title: "Sizzling Summer"
 modified:
 categories: blog
 excerpt:
