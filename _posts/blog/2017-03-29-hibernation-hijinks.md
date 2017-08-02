@@ -3,11 +3,13 @@ layout: post
 title: "Hibernation Hijinks"
 modified:
 categories: blog
+location: "Aeronaut Brewery"
 excerpt:
 tags: []
 image:
   feature: coverphoto-slim.png
 date: 2017-03-29T00:00:00-04:00
+modified: 2017-08-01T14:19:19-04:00
 ---
 
 good date and lineup

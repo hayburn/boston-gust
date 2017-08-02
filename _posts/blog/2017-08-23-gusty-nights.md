@@ -3,6 +3,7 @@ layout: post
 title: "Gusty Nights"
 modified:
 categories: blog
+location: "Aeronaut Brewery"
 excerpt:
 tags: []
 image:

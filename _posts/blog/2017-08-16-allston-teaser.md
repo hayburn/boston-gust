@@ -3,6 +3,7 @@ layout: post
 title: "Allston Teaser"
 modified:
 categories: blog
+location: "Aeronaut Allston"
 excerpt:
 tags: []
 image:
