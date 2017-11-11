@@ -6,7 +6,7 @@ categories: page
 excerpt:
 tags: []
 image:
-  feature: coverphoto-slim.png
+  feature: coverphoto_slim.png
 date: 2017-03-29T00:00:00-04:00
 ---
 
