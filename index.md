@@ -10,7 +10,7 @@ image:
 date: 2017-03-29T00:00:00-04:00
 ---
 
-Boston GrownUp StoryTime is an hour of funny, heartwarming, crazy, amazing stories read aloud at Aeronaut Brewery in Somerville once a month, typically on Wednesday nights.
+Boston's GrownUp StoryTime is an hour of funny, heartwarming, crazy, amazing stories read aloud at Aeronaut Brewery in Somerville once a month, typically the fourth Wednesday (but check our schedule just to be sure).
 
 Our next show is on **November 29th**. Our deadline for story submissions is always two weeks before the show date. On that note...
 
