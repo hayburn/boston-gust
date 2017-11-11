@@ -7,10 +7,10 @@ image:
   feature: coverphoto-slim.png
 ---
 
-Boston GrownUp StoryTime (or Boston GUST) is a monthly story-telling event hosted by Aeronaut Brewery in Somerville. Community members submit 3 - 10 minute stories and local actors read them out loud.
+GrownUp StoryTime is an hour of funny, heartwarming, crazy, amazing stories read aloud. Created by the original BooTown in Houston and now in Boston and LA. We're the East Coast GUST produced by BooTown Boston.
 
-Boston GUST was created by Colleen Moore in 2015, modeled after a similar event run in Austin, Texas.
+Remember storytime before bedtime? Well this is just like that only replace a loved one with a weird stranger, warm milk with craft brews and your bedroom with Aeronaut's cozy Duck Village Stage. The best part is that you don't have to go to sleep afterward - cause we're all grown-up now!
 
-At events, attendees are encouraged to donate towards GUST, which allows the event to pay both writers and performers for their work and time.
+Boston GUST was brought to Boston by Colleen Moore and Corianna Moffatt in 2015.  Corianna stepped down to focus on a grad degree and Kelly Smith stepped up to keep StoryTime alive.  Kelly and Colleen now co-produce a monthly show (typically the fourth Wednesday of the month but check the calendar just to be sure). 
 
-These days, Colleen Moore and Kelly Smith run Boston GUST.
+Kelly and Colleen think supporting local artists is important and so is accessibility to the arts which is why the event is FREEEEEEEE but they ask for a $5 donation per person. They pay the writers and readers for each show as a token of appreciation for their time and creativity. #SupportLocalArtists
