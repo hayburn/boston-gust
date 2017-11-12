@@ -4,7 +4,7 @@ title: Past Events
 excerpt: "An archive of past events sorted by date."
 search_omit: true
 image:
-  feature: coverphoto-slim.png
+  feature: Coverphoto_slim.png
 ---
 
 <ul class="post-list">
