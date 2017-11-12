@@ -4,7 +4,7 @@ title: About Boston GUST
 excerpt:
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: coverphoto-slim.png
+  feature: Audience_slim.jpg
 ---
 
 GrownUp StoryTime is an hour of funny, heartwarming, crazy, amazing stories read aloud. Created by the original BooTown in Houston and now in Boston and LA. We're the East Coast GUST produced by BooTown Boston.
