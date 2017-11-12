@@ -4,7 +4,7 @@ title: Schedule
 excerpt: "Schedule moving forward."
 search_omit: true
 image:
-  feature: coverphoto-slim.png
+  feature: Audience_slim.jpg
 ---
 
 All shows are at Aeronaut Brewery in Somerville unless otherwise noted.
