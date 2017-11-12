@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Boston Grown-Up Story Time
+title: Boston's GrownUp StoryTime
 locale: en_US
 description: Describe your website here.
-logo: site-logo.png
+logo: GUST-Logo.jpg
 search: true
 url: http://bostongust.com
 # url: http://localhost:4000
