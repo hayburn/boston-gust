@@ -11,8 +11,7 @@ date: 2017-06-22T00:00:00-04:00
 modified: 2017-08-01T14:19:19-04:00
 ---
 
-accurate date
-accurate lineup
+
 
 June GUST Lineup: 
 
