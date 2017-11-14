@@ -12,8 +12,7 @@ date: 2017-07-26T00:00:00-04:00
 modified: 2017-08-01T14:19:19-04:00
 ---
 
-accurate date
-accurate lineup
+
 
 July GUST Lineup: 
 
