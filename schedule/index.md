@@ -9,7 +9,6 @@ image:
 
 All shows are at Aeronaut Brewery in Somerville unless otherwise noted and are typically the fourth Wednesday of the month.
 
-* 7pm February 28th: **Frost to Thaw** [RSVP/Share on Facebook](https://www.facebook.com/events/1827848930572217/)
-* 7pm March 28th: **March On with GUST-o** [RSVP/Share on Facebook](https://www.facebook.com/events/173046600004798/)
-* 7pm April 25th: TBD
-
+* 7pm April 25th: **Seeds of Stories** [RSVP/Share on Facebook](https://www.facebook.com/events/192653214684737/)
+* 7pm May 23th: TBD @Aeronaut
+* 7:30pm June 27th: TBD @Aernaut
