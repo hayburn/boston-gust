@@ -6,9 +6,12 @@ search_omit: true
 image:
   feature: Coverphoto_slim.jpg
 ---
+What's next?
+* 7 pm July 26th @Aeronaut Brewing: **Stories that Sizzle** [RSVP/Share on Facebook](https://www.facebook.com/events/1848066012168334/)
 
-All shows are at Aeronaut Brewery in Somerville unless otherwise noted and are typically the fourth Wednesday of the month.
+Past Shows:
+* 7:30pm June 27th: **Just Be**
+* 7pm May 23th: **A Second Take**
+* 7pm April 25th: **Seeds of Stories** 
 
-* 7pm April 25th: **Seeds of Stories** [RSVP/Share on Facebook](https://www.facebook.com/events/192653214684737/)
-* 7pm May 23th: TBD @Aeronaut
-* 7:30pm June 27th: TBD @Aernaut
+All shows are at Aeronaut Brewery in Somerville unless otherwise noted.
