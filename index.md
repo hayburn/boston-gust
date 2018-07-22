@@ -22,4 +22,4 @@ Want to read? Email us at bostongust@gmail.com or message us (BooTown Boston) on
 
 We think supporting local artists is important and so is accessibility to the arts which is why the event is FREEEEEEEE but we ask for a $5 donation per person. We pay our writers and readers the 3rd time (and every time thereafter) they read/write for us. #SupportLocalArtists
 
-Our next show is on **March 28th**. Our deadline for story submissions is always two weeks before the show date.
+Check out our [Schedule](http://bostongust.com/schedule/) for details on our next show!
