@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Call for Writers
@@ -23,4 +22,4 @@ Stories typically take from 3 to 10 minutes to read, which means max word count 
 
 Please send stories to GUSTboston@gmail.com 14 days prior to the upcoming event.   
 
-If you need a little inspiration video from our first Boston StoryTime (big thanks to SCATV for recording!):  https://youtu.be/jmEPR88QRHI  Jump around, there are 9 stories total.
+If you need a little inspiration [video](https://youtu.be/jmEPR88QRHI) from our first Boston StoryTime (big thanks to SCATV for recording!). Jump around, there are 9 stories total.
