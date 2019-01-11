@@ -7,13 +7,14 @@ image:
   feature: Coverphoto_slim.jpg
 ---
 What's next?
-* 7 pm November 29th @Aeronaut Brewing: **Grateful GUST** 
+* 7 pm January 23rd @Aeronaut Brewing: **GUST of Glitter** 
 
-  [RSVP/Share](https://www.facebook.com/events/489790361521376/) on Facebook
+  [RSVP/Share](https://www.facebook.com/events/1967096610250631/) on Facebook
     or
-  [Check us out](https://www.thebostoncalendar.com/events/grown-up-story-time-grateful-gust) on Boston Calendar
+  [Check us out](https://www.thebostoncalendar.com/events/grownup-storytime-gust-of-glitter) on Boston Calendar
 
 Past Shows:
+* November 29th: **Grateful GUST**
 * October 25th: **Ghoulish GhUST**
 * September 27th: **Pumpkin Spiced GUST**
 * August 23rd: **Ah GUST**
