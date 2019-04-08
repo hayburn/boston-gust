@@ -7,13 +7,18 @@ image:
   feature: Coverphoto_slim.jpg
 ---
 What's next?
-* 7 pm January 23rd @Aeronaut Brewing: **GUST of Glitter** 
+* 7:30 pm April 30th at [Remnant Brewing](https://www.remnantsomerville.com/): **Auspicious April** 
 
-  [RSVP/Share](https://www.facebook.com/events/1967096610250631/) on Facebook
+  [RSVP/Share](https://www.facebook.com/events/412345959327906/) on Facebook
     or
-  [Check us out](https://www.thebostoncalendar.com/events/grownup-storytime-gust-of-glitter) on Boston Calendar
+  [Check us out](https://www.thebostoncalendar.com/events/grownup-storytime-auspicious-april--2) on Boston Calendar
+    and
+  [Donations/Reservations](https://www.eventbrite.com/e/grownup-storytime-auspicious-april-tickets-60035005317) on Eventbrite
 
 Past Shows:
+* March 27: **March Edition**
+* February 25th: **GUST on SCATV**
+* January 23rd: **GUST of Glitter**
 * November 29th: **Grateful GUST**
 * October 25th: **Ghoulish GhUST**
 * September 27th: **Pumpkin Spiced GUST**
