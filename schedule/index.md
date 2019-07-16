@@ -7,7 +7,8 @@ image:
   feature: Coverphoto_slim.jpg
 ---
 What's next?
-*7-8 pm July 24th at [Aeronaut Brewing](https://www.aeronautbrewing.com/): **Sun Scorched Stories**
+
+* 7-8 pm July 24th at [Aeronaut Brewing](https://www.aeronautbrewing.com/): **Sun Scorched Stories**
   [RSVP/Share](https://www.facebook.com/events/2050775065227076/) on Facebook
     or
   [Check us out](https://www.thebostoncalendar.com/events/grownup-storytime-sun-scorched-stories) on Boston Calendar
