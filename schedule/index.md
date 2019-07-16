@@ -7,15 +7,15 @@ image:
   feature: Coverphoto_slim.jpg
 ---
 What's next?
-* 7:30 pm April 30th at [Remnant Brewing](https://www.remnantsomerville.com/): **Auspicious April** 
-
-  [RSVP/Share](https://www.facebook.com/events/412345959327906/) on Facebook
+*7-8 pm July 24th at [Aeronaut Brewing](https://www.aeronautbrewing.com/): **Sun Scorched Stories**
+  [RSVP/Share](https://www.facebook.com/events/2050775065227076/) on Facebook
     or
-  [Check us out](https://www.thebostoncalendar.com/events/grownup-storytime-auspicious-april--2) on Boston Calendar
+  [Check us out](https://www.thebostoncalendar.com/events/grownup-storytime-sun-scorched-stories) on Boston Calendar
     and
-  [Donations/Reservations](https://www.eventbrite.com/e/grownup-storytime-auspicious-april-tickets-60035005317) on Eventbrite
+  [Donations/Reservations](https://www.eventbrite.com/e/grownup-storytime-sun-scorched-stories-tickets-64513286978?aff=efbeventtix&fbclid=IwAR1R69c4BxNdfEHg-qdEidPWVwADPh9XjQv9Z7Ap2oHUCmYAC_LsM-PlQTw) on Eventbrite
 
 Past Shows:
+* April 30th: **Auspicious April**
 * March 27: **March Edition**
 * February 25th: **GUST on SCATV**
 * January 23rd: **GUST of Glitter**
